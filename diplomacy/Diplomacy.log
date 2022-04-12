@@ -1,0 +1,242 @@
+commit 6eaa7083ca73702d5f97b63b14ea4465db9f9099
+Merge: b05594b 6ca0a32
+Author: Mingfeng Gu <mingfenggu36@gmail.com>
+Date:   Wed Nov 18 22:43:15 2020 +0000
+
+    Merge branch 'dev' into 'master'
+    
+    added diplomacy-tests to makefile
+    
+    See merge request ngl394/diplomacy!10
+
+commit 6ca0a32a249f7a4cfc3c8e471724cc306d2cb9eb
+Author: Mingfeng <MingfengGu36@gmail.com>
+Date:   Wed Nov 18 16:42:08 2020 -0600
+
+    added diplomacy-tests to makefile
+
+commit b05594b8f6021230414d4fa27889cf5f4862fd66
+Merge: dcc09d0 7557afa
+Author: Mingfeng Gu <mingfenggu36@gmail.com>
+Date:   Tue Nov 17 22:28:18 2020 +0000
+
+    Merge branch 'dev' into 'master'
+    
+    5 acceptance tests
+    
+    See merge request ngl394/diplomacy!9
+
+commit 7557afaed295fa6dc79233e5209751f9381b0fa5
+Author: Mingfeng <MingfengGu36@gmail.com>
+Date:   Tue Nov 17 16:25:46 2020 -0600
+
+    5 acceptance tests
+
+commit dcc09d001e56eadcb6dc534c43f51d4d7aef66f9
+Merge: 293743d 1b0f038
+Author: Mingfeng Gu <mingfenggu36@gmail.com>
+Date:   Tue Nov 17 21:06:23 2020 +0000
+
+    Merge branch 'Divide_funcitons_into_sub-functions' into 'master'
+    
+    Divide functions into sub-functions
+    
+    See merge request ngl394/diplomacy!8
+
+commit 1b0f038cd047efbdc9d24dd83e1e42a163d2a3a1
+Author: Mingfeng <MingfengGu36@gmail.com>
+Date:   Tue Nov 17 15:05:04 2020 -0600
+
+    Divide functions into sub-functions
+
+commit 293743d3d4dbd3cedae6356df1064deacb656d48
+Merge: 11d0c48 3cc5671
+Author: Mingfeng Gu <mingfenggu36@gmail.com>
+Date:   Tue Nov 17 20:24:14 2020 +0000
+
+    Merge branch 'support' into 'master'
+    
+    Format the output for unit test
+    
+    See merge request ngl394/diplomacy!7
+
+commit 3cc5671da97da5ec4779620a2b8e7e96052f76bd
+Author: Mingfeng <MingfengGu36@gmail.com>
+Date:   Tue Nov 17 14:22:46 2020 -0600
+
+    Format the output for unit test
+
+commit 11d0c48b94efbea63a0f876bd5ffaa59206c0a13
+Merge: f02a023 59ee28a
+Author: Mingfeng Gu <mingfenggu36@gmail.com>
+Date:   Mon Nov 16 22:37:33 2020 +0000
+
+    Merge branch 'support' into 'master'
+    
+    Clash
+    
+    See merge request ngl394/diplomacy!6
+
+commit 59ee28ad7d520c70992956cc7de7b07eb447ad47
+Author: Mingfeng <MingfengGu36@gmail.com>
+Date:   Mon Nov 16 16:33:23 2020 -0600
+
+    Clash
+
+commit f02a023163bf86b76da2b8baa750cc140aa46e81
+Merge: 557b8b1 91778bb
+Author: Mingfeng Gu <mingfenggu36@gmail.com>
+Date:   Mon Nov 16 22:30:30 2020 +0000
+
+    Merge branch 'support' into 'master'
+    
+    Assign support to each army dictionary
+    
+    See merge request ngl394/diplomacy!5
+
+commit 91778bb63940971c43bbced94430add677746338
+Author: Mingfeng <MingfengGu36@gmail.com>
+Date:   Mon Nov 16 16:28:22 2020 -0600
+
+    Assign support to each army dictionary
+
+commit 11a27a96c92321edf562cdf53de93da75a860887
+Author: Mingfeng <MingfengGu36@gmail.com>
+Date:   Mon Nov 16 16:25:31 2020 -0600
+
+    Assign support to each army dictionary
+
+commit a899ba27890129fd44d6b24a752c2958756e5737
+Merge: 3f8ad7d f2784b4
+Author: Mingfeng <MingfengGu36@gmail.com>
+Date:   Fri Nov 13 20:21:32 2020 -0600
+
+    Merge branch 'debug_reading_input' into master
+
+commit 557b8b1a862121d3a4db165484cfc67f272eb590
+Merge: ac6b6c7 f2784b4
+Author: Mingfeng Gu <mingfenggu36@gmail.com>
+Date:   Sat Nov 14 02:15:32 2020 +0000
+
+    Merge branch 'debug_reading_input' into 'master'
+    
+    move_army_to_the_city_they_attack
+    
+    See merge request ngl394/diplomacy!4
+
+commit f2784b4b09d11747194cf0788274dcc5bd79116f
+Author: Mingfeng <MingfengGu36@gmail.com>
+Date:   Fri Nov 13 20:14:38 2020 -0600
+
+    move_army_to_the_city_they_attack
+
+commit 3f8ad7de72953f8a2d7780065aec02d7e99df9f9
+Author: Mingfeng <MingfengGu36@gmail.com>
+Date:   Fri Nov 13 20:13:44 2020 -0600
+
+    move_army_to_the_city_they_attack
+
+commit 9c968a21c638c76038f5d4f040ac82e484649939
+Author: Mingfeng <MingfengGu36@gmail.com>
+Date:   Fri Nov 13 20:07:57 2020 -0600
+
+    move_army_to_the_city_they_attack
+
+commit ac6b6c733932f326801d094d71ca85161140d9c3
+Merge: d8b61ab 6017b92
+Author: Mingfeng Gu <mingfenggu36@gmail.com>
+Date:   Wed Nov 11 22:25:05 2020 +0000
+
+    Merge branch 'debug_reading_input' into 'master'
+    
+    debug_read_input
+    
+    See merge request ngl394/diplomacy!3
+
+commit 6017b92d89917b21f7358ef0b8e31c6dad962ff6
+Author: Mingfeng <MingfengGu36@gmail.com>
+Date:   Wed Nov 11 16:24:02 2020 -0600
+
+    debug_read_input
+
+commit a031c8124bfb4abfe6b799e4308fa2d94839c0a2
+Author: Mingfeng <MingfengGu36@gmail.com>
+Date:   Wed Nov 11 16:21:09 2020 -0600
+
+    debug_read_input
+
+commit d8b61ab1fbf68263c57e42f6d44be7a2acae484f
+Author: Noe Leon <ngl394UT@utexas.edu>
+Date:   Tue Nov 10 18:06:28 2020 -0600
+
+    created_class_of_armies
+
+commit 4da50760c7ee59c0ac94f8d10ad4d95d863fb588
+Author: Noe Leon <ngl394UT@utexas.edu>
+Date:   Tue Nov 10 18:01:21 2020 -0600
+
+    created_class_of_armies
+
+commit 791be1a1b9d1070347c54f805411f4361fa22031
+Author: Noe Leon <ngl394UT@utexas.edu>
+Date:   Tue Nov 10 17:57:57 2020 -0600
+
+    created_class_of_armies
+
+commit a21f48f93bba93025ead1652086dc43ec7b1db3f
+Merge: 09cfa54 ddeb416
+Author: Mingfeng Gu <mingfenggu36@gmail.com>
+Date:   Fri Nov 6 04:15:19 2020 +0000
+
+    Merge branch 'fix_unit_tests' into 'master'
+    
+    minor_update
+    
+    See merge request ngl394/diplomacy!2
+
+commit ddeb416559dacf09a04d0028195908b008e74bc9
+Author: Mingfeng <MingfengGu36@gmail.com>
+Date:   Thu Nov 5 22:14:18 2020 -0600
+
+    minor_update
+
+commit 09cfa547432fedde60c3726f0a2746aa265baf5d
+Author: Mingfeng Gu <mingfenggu36@gmail.com>
+Date:   Fri Nov 6 03:45:28 2020 +0000
+
+    Update .gitlab-ci.yml
+
+commit b518f59a7bf4a16395b1ab15c478d4a8b6124cd1
+Merge: 4823a13 9a8956e
+Author: Mingfeng Gu <mingfenggu36@gmail.com>
+Date:   Fri Nov 6 03:40:50 2020 +0000
+
+    Merge branch 'fix_unit_tests' into 'master'
+    
+    fix_unit_tests
+    
+    See merge request ngl394/diplomacy!1
+
+commit 9a8956e37f686b1fd0a31d53a43501bcf1b43d39
+Author: Mingfeng <MingfengGu36@gmail.com>
+Date:   Thu Nov 5 21:39:42 2020 -0600
+
+    fix_unit_tests
+
+commit 4823a13b1ec7f33c82ca7cfa07b8359d5b13a7e6
+Author: Mingfeng Gu <mingfenggu36@gmail.com>
+Date:   Fri Nov 6 03:14:32 2020 +0000
+
+    Update README.md
+
+commit ae4686f11ff5b97e74d3e84b64fd00bd4735b776
+Author: Mingfeng <MingfengGu36@gmail.com>
+Date:   Thu Nov 5 20:21:43 2020 -0600
+
+    fix_unit_tests
+
+commit 344f1dc88a1f604a7ab361bc1f98ab2186d8161a
+Author: Mingfeng <MingfengGu36@gmail.com>
+Date:   Thu Nov 5 20:16:17 2020 -0600
+
+    fix_unit_test
