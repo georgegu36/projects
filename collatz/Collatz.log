@@ -1,0 +1,143 @@
+commit 1e45722a1c1f338d3738bd23a25c9824bbeb8f0e
+Merge: 95ada2f 45fa81c
+Author: Mingfeng Gu <mingfenggu36@gmail.com>
+Date:   Sat Oct 3 00:52:25 2020 +0000
+
+    Merge branch 'code_generated_cache' into 'master'
+    
+    code generated cache of size 200000
+    
+    See merge request mingfenggu/collatz!8
+
+commit 45fa81c81ede7eab8b8f5b2c2d4a6f7e50631c56
+Merge: a318b00 95ada2f
+Author: Mingfeng Gu <mingfenggu36@gmail.com>
+Date:   Sat Oct 3 00:37:00 2020 +0000
+
+    Merge branch 'master' into 'code_generated_cache'
+    
+    # Conflicts:
+    #   Collatz.log
+    #   Collatz.py
+    #   RunCollatz.in
+    #   RunCollatz.out
+
+commit a318b00b854342c83261fad5d88a6979fe2ce147
+Author: Mingfeng <MingfengGu36@gmail.com>
+Date:   Fri Oct 2 19:33:56 2020 -0500
+
+    code generated cache of size 200000
+
+commit 95ada2ff722afd815efcc5f1853f835a809029e3
+Merge: 1be000b 5ae8e39
+Author: Mingfeng Gu <mingfenggu36@gmail.com>
+Date:   Fri Oct 2 22:38:37 2020 +0000
+
+    Merge branch 'optimize_cache' into 'master'
+    
+    minor change
+    
+    See merge request mingfenggu/collatz!7
+
+commit 5ae8e39e12efaf6222e0f898ad26037ca768653f
+Author: Mingfeng <MingfengGu36@gmail.com>
+Date:   Fri Oct 2 17:37:34 2020 -0500
+
+    minor change
+
+commit 1be000b019b1b7e88decf50d8213827408f7e494
+Merge: 44f2c51 8430cc3
+Author: Mingfeng Gu <mingfenggu36@gmail.com>
+Date:   Fri Oct 2 22:21:57 2020 +0000
+
+    Merge branch 'optimize_cache' into 'master'
+    
+    Avoided re-calculating numbers already in cache
+    
+    See merge request mingfenggu/collatz!6
+
+commit 8430cc3ce314847e75f5666eb7c6a2a6fa05e46e
+Author: Mingfeng <MingfengGu36@gmail.com>
+Date:   Fri Oct 2 17:20:21 2020 -0500
+
+    Avoided re-calculating numbers already in cache
+
+commit 44f2c515a12c9f3e04e6e753848c551b4a4cc64c
+Merge: 0e5ba1f b66aaeb
+Author: Mingfeng Gu <mingfenggu36@gmail.com>
+Date:   Fri Oct 2 16:58:20 2020 +0000
+
+    Merge branch 'cache' into 'master'
+    
+    created cache size of 32760
+    
+    See merge request mingfenggu/collatz!5
+
+commit b66aaeb9ff1d229a685b00a0b1784f003334a38b
+Author: Mingfeng <MingfengGu36@gmail.com>
+Date:   Fri Oct 2 11:56:34 2020 -0500
+
+    created cache size of 32760
+
+commit 0e5ba1f45e988376ced43188d7244991e507cf0e
+Merge: bf1a004 ac9b21e
+Author: Mingfeng Gu <mingfenggu36@gmail.com>
+Date:   Wed Sep 30 04:13:53 2020 +0000
+
+    Merge branch 'dev' into 'master'
+    
+    Dev
+    
+    See merge request mingfenggu/collatz!4
+
+commit ac9b21ea414713b081ef2575dc9bbfa154ee1307
+Author: Mingfeng <MingfengGu36@gmail.com>
+Date:   Tue Sep 29 23:12:13 2020 -0500
+
+    third commit
+
+commit a3d657da655f854fa5a2ceaded961ef467bd1ca9
+Author: Mingfeng <MingfengGu36@gmail.com>
+Date:   Tue Sep 29 23:03:56 2020 -0500
+
+    third commit
+
+commit bf1a0040364a3528636ae7a15232939e77714516
+Merge: 17c0084 1295c26
+Author: Mingfeng Gu <mingfenggu36@gmail.com>
+Date:   Wed Sep 30 00:03:55 2020 +0000
+
+    Merge branch 'dev' into 'master'
+    
+    second commit
+    
+    See merge request mingfenggu/collatz!2
+
+commit 1295c26cdb124822469948f633a66b1a4aceb459
+Author: Mingfeng <MingfengGu36@gmail.com>
+Date:   Tue Sep 29 19:02:52 2020 -0500
+
+    second commit
+
+commit 17c00845e63284b2d7deab31dbdaec97be0cf4ab
+Merge: 7672777 f425a9d
+Author: Mingfeng Gu <mingfenggu36@gmail.com>
+Date:   Tue Sep 29 22:19:47 2020 +0000
+
+    Merge branch 'dev' into 'master'
+    
+    first commit
+    
+    See merge request mingfenggu/collatz!1
+
+commit f425a9d55b979293d1b0e8cb1d00d3a815daa7cc
+Author: Mingfeng <MingfengGu36@gmail.com>
+Date:   Tue Sep 29 17:03:56 2020 -0500
+
+    first commit
+
+commit 7672777bd7d5ce93529a89acf92e4f9aee723aba
+Author: Mingfeng <MingfengGu36@gmail.com>
+Date:   Tue Sep 29 08:52:10 2020 -0500
+
+    Initial commit
